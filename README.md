@@ -1,6 +1,9 @@
 #  DESIGN & ANALYSIS OF ALGORITHMS LABORATORY PROGRAM  
 ### **B. Tech. – Information Technology | Semester: V**  
-### **Course:** Design & Analysis of Algorithms Laboratory  
+### **Course:** Design & Analysis of Algorithms Laboratory
+---
+### Name - Pradnya Jeevan Kulkarni
+### PRN - 123B1F051
 
 ---
 
